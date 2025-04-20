@@ -20,7 +20,7 @@ A modern and responsive Task Manager built using **React.js** and **Tailwind CSS
 
 ## 📸 Screenshots
 
-
+https://github.com/Umangsharma15/Task-manager-app/blob/ba1dd58cd8be4a6252828faa87ca4b5299f1f0e4/Screenshot%202025-04-20%20205427.png
 
 ---
 
