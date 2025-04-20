@@ -20,7 +20,7 @@ A modern and responsive Task Manager built using **React.js** and **Tailwind CSS
 
 ## 📸 Screenshots
 
-*(Add screenshots here if available)*
+
 
 ---
 
